@@ -35,7 +35,7 @@ Live demo
 - App (live): https://online-coding-assesment-production.up.railway.app/login
 
 - **Demo Example:**  
-  [Click to watch the demo](/assets/demo.mp4)
+  [Click to watch the demo](https://drive.google.com/file/d/1-4JjeUoXpj8sL3mihlmROPW-T73acbNc/view?usp=drive_link)
 
 ---
 
