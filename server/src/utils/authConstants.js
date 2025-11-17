@@ -1,0 +1,8 @@
+export const SIGN_PROVIDE_DATA = 'Please provide name, email, and password'
+export const EXISTING_USER = 'User with this email already exists'
+export const USER_CREATED = 'User created successfully'
+export const USER_CREATING_ERROR = 'Error creating user'
+export const LOGIN_PROVIDE_DATA = 'Please provide email and password'
+export const INVALID_DATA = 'Invalid email or password'
+export const LOGIN_SUCCESS = 'Login successful'
+export const LOGIN_ERROR = 'Error during login'

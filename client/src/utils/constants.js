@@ -1,0 +1,1 @@
+export const SECTIONS = ['news', 'prices', 'meme', 'insight']
